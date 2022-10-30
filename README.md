@@ -21,4 +21,4 @@
 
 ## 相关文章
 
-* [温故知新，CSharp遇见事件和事件(Event/Delegate)，通过ILSpy反编译代码，透过现象看本质](https://www.cnblogs.com/taylorshi/p/16841864.html)
+* [温故知新，CSharp遇见事件和委托(Event/Delegate)，通过ILSpy反编译代码，透过现象看本质](https://www.cnblogs.com/taylorshi/p/16841864.html)
